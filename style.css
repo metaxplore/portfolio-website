@@ -60,3 +60,20 @@ p {
     color-adjust: red ,blue ;
     color: rgb(49, 4, 52);
 }
+.ABOUT {
+    background-image:url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.latest{
+    float: left;
+}
+.half-wid2{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-wid2 img{
+    width: 100%;
+}
