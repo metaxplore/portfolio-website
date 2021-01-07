@@ -77,3 +77,14 @@ p {
 .half-wid2 img{
     width: 100%;
 }
+h4{
+    color: rgb(47, 6, 66);
+}
+.latest{
+    background-image:url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left ;
+}
+.project{
+    text-align: center;
+}
