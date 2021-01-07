@@ -1,5 +1,6 @@
 body{
     font-family: 'Audiowide', cursive;
+    margin: 0px ;
 }
 
 h1{
@@ -14,4 +15,39 @@ h1{
 .live{
     color: rgb(255, 30, 0);
     font-size: larger;
+}
+.half-wid{
+    width: 40%;
+    float: left;
+   
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-wid img{
+    width: 100%;
+
+}
+
+.top-banner{
+    background-image:url(top-banner.png) ;
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    font-weight: 700;
+    background-image: linear-gradient(50 deg,lightsalmon ,tomato);
+
+}
+.html{
+    color: rgb(154, 0, 0);
+    font-weight: 500;
 }
