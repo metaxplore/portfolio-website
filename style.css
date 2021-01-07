@@ -88,13 +88,5 @@ h4{
 .project{
     text-align: center;
 }
-.work_inquiry{
-    background-image:url(image/work.png ) ;
-    background-repeat: no-repeat;
-    background-size: contain;
 
 
-}
-#white{
-    color: rgb(251, 251, 251);
-}
